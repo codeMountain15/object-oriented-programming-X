@@ -16,7 +16,7 @@ class Pontikaras():
         self._weight = 2    # kilos
 
 # create objects
-obj00 = Pithari(50,86, 12)
+obj00 = Pithari(50, 86, 12)
 
 obj01 = Pontikaras()
 obj01._name = "Mitsaras"
